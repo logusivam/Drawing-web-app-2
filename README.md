@@ -6,6 +6,8 @@ This project demonstrates how to create a drawing web app using HTML, CSS, and J
 
 You can see a live demo of the project [here](https://logusivam.github.io/Drawing-web-app-2/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Canvas Drawing**: Users can draw freely on the canvas using mouse or touch input.
